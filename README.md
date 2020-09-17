@@ -1,4 +1,4 @@
-# Phase 1 Project:  “DOSflix Case Study” \
+# Phase 1 Project:  “DOSflix Case Study” 
 Michael Collins \
 Student of Data Science at Flatiron School
 
